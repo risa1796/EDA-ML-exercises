@@ -6,3 +6,7 @@
     - User segmentation : [OKcupid Customer segmentation](https://github.com/risa1796/EDA-ML-exercises/blob/main/OKCupid_UserSegmentation_ClusteringAlgorithms2.ipynb)
        - Lessons learned : The concept of clustering is more or less clear enough to apply. However, I am still having difficulties in understanding how to interpret the result of clustering algorithms 🤷🏻‍♀️ Higher number of featrues seems to make more difficult to cluster datapoints and visualize the result. 
     
+
+- ## 🚴🏻‍♂️ Stolen bicycle report in Berlin Germany
+    - Dataset : https://www.kaggle.com/datasets/staefff/stolen-bike-report-berlin
+    - EDA exercise: 
