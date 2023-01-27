@@ -12,3 +12,4 @@
     - EDA exercise: [Berlin stolen bicycle report](https://github.com/risa1796/EDA-ML-exercises/blob/main/Stolen_Bike_Report_in_Berlin.ipynb)
     - Lessons learned: shame that I couldnt do forecasting because there were many missing dates within the period. 
     - Tableau visualization: 
+    - Shared in Kaggle: [Kaggle](https://www.kaggle.com/code/chunga94/stolen-bike-report-eda-exercise)
