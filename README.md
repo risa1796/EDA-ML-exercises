@@ -10,6 +10,6 @@
 - ## 🚴🏻‍♂️ Stolen bicycle report in Berlin Germany
     - Dataset : https://www.kaggle.com/datasets/staefff/stolen-bike-report-berlin
     - EDA exercise: [Berlin stolen bicycle report](https://github.com/risa1796/EDA-ML-exercises/blob/main/Stolen_Bike_Report_in_Berlin.ipynb)
-    - Lessons learned: shame that I couldnt do forecasting because there were many missing dates within the period. 
+    - Lessons learned: shame that I couldnt do forecasting because there were many missing dates within the period. One year dataset will lead to overfitting with high possibility. 
     - Tableau visualization: 
     - Shared in Kaggle: [Kaggle](https://www.kaggle.com/code/chunga94/stolen-bike-report-eda-exercise)
