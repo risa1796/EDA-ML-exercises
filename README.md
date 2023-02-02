@@ -18,3 +18,4 @@
     - Dataset: [Woes Club](https://www.kaggle.com/datasets/varshapandey/assignment-data)
     - References: [Pycaret](https://www.kaggle.com/code/frtgnn/pycaret-introduction-classification-regression/notebook)
     - [Churn Prediction Model](https://github.com/risa1796/EDA-ML-exercises/blob/main/woes_club_churn_prediction_withPycaret.ipynb)
+    - Lesson learned: Pycaret needs certain environment settings. It is definitely a useful package to easily get the best model for dataset. But I would not totally rely on the package. Always try out different approaches for data preprocessing and model building.
