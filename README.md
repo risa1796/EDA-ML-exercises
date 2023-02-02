@@ -13,3 +13,8 @@
     - Lessons learned: shame that I couldnt do forecasting because there were many missing dates within the period. One year dataset will lead to overfitting with high possibility. 
     - Tableau visualization: 
     - Shared in Kaggle: [Kaggle](https://www.kaggle.com/code/chunga94/stolen-bike-report-eda-exercise)
+    
+- ## Woes Club Churn Prediction with Pycaret
+    - Dataset: [Woes Club](https://www.kaggle.com/datasets/varshapandey/assignment-data)
+    - References: [Pycaret](https://www.kaggle.com/code/frtgnn/pycaret-introduction-classification-regression/notebook)
+    - Churn Prediction Model: 
