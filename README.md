@@ -14,7 +14,7 @@
     - Tableau visualization: 
     - Shared in Kaggle: [Kaggle](https://www.kaggle.com/code/chunga94/stolen-bike-report-eda-exercise)
     
-- ## Woes Club Churn Prediction with Pycaret
+- ## 🐺 Woes Club Churn Prediction with Pycaret
     - Dataset: [Woes Club](https://www.kaggle.com/datasets/varshapandey/assignment-data)
     - References: [Pycaret](https://www.kaggle.com/code/frtgnn/pycaret-introduction-classification-regression/notebook)
-    - Churn Prediction Model: 
+    - [Churn Prediction Model](https://github.com/risa1796/EDA-ML-exercises/blob/main/woes_club_churn_prediction_withPycaret.ipynb)
